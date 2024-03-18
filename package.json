@@ -1,0 +1,22 @@
+{
+  "name": "iiq-asset-utlitization",
+  "version": "0.1.0",
+  "description": "Pulling information from the IncidentIQ API on the command line",
+  "main": "index.js",
+  "author": {
+    "name": "Seth Battis",
+    "email": "sbattis@groton.org"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@battis/qui-cli": "^0.4.0"
+  },
+  "devDependencies": {
+    "@battis/eslint-config": "latest",
+    "@battis/prettier-config": "latest"
+  },
+  "prettier": "@battis/prettier-config",
+  "eslintConfig": {
+    "extends": "@battis/eslint-config"
+  }
+}
