@@ -9,7 +9,7 @@
   },
   "license": "GPL-3.0",
   "dependencies": {
-    "@battis/qui-cli": "^0.4.0"
+    "@battis/qui-cli": "^0.4.2"
   },
   "devDependencies": {
     "@battis/eslint-config": "latest",
